@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 
 ## 🚀 Live Demo
 
-🔗 Portfolio Website: https://vaishnavi-achi.github.io/Vaishnavi-Achi-Portfolio/
+🔗 Portfolio Website: https://vaishnavi-achi-portfolio.vercel.app/
 
 ## 📌 About
 
